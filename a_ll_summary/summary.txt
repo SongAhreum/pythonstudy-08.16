@@ -1,0 +1,55 @@
+1. loop 
+  -구구단출력하기
+  -홀수짝수단 선택출력
+  -break continue활용하기
+
+2. string
+  - hello world 또는 helloooo woorld에서 'o' 없애기
+  - string관련 함수 구현해보기
+    replace?
+    
+  -문자열포맷팅   
+
+3. list
+  - 리스트관련함수 구현
+    count,reverse,index,'sort',min,max,sum
+    split,join
+
+4.set
+  메뉴바꾸기
+
+5.comprehension
+  all any함수 활용하기
+  2차원배열 comprehension으로 만들어보기
+
+
+6.class
+  -매개변수
+    기본인자값,키워드인자,*가변인수리스트,**위치인자리스트
+    - 재귀함수 : example = [[1,2,3], [4, [5,6]], 7, [8,9]] 1차원배열로 만들어보기
+  -계산기만들어보기
+
+7. lambda 익명함수
+    lambda,map,filter,reduce
+    - ex) jpg찾기
+    all,any활용해보기
+
+----추상클래스
+  피자클래스    
+
+8.exception
+9.decorator,closure,일급객체
+
+10.file
+  - 다이어리프로그램
+  -pickle모듈
+    가위바위보게임
+  -alice 단어찾기
+
+11.numpy
+12.pandas    
+
+
+
+
+    
